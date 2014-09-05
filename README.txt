@@ -1,0 +1,4 @@
+-Wi-Fi Hash Stealer and Wi-Fi Hash Decrypter for Windows Operating systems
+-Use this for educational purposes only
+-Author takes no responsibility for any kind of damage you cause
+-Author: Osanda Malith Jayathissa
